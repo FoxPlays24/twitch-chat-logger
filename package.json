@@ -1,0 +1,27 @@
+{
+  "name": "twitch-chat-logger",
+  "version": "1.0.0",
+  "description": "Twitch Chat Logger by FoxPlays",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoxPlays24/twitch-chat-logger.git"
+  },
+  "keywords": [
+    "node",
+    "twitch",
+    "tmi",
+    "chat",
+    "logger",
+    "log"
+  ],
+  "author": "FoxPlays",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FoxPlays24/twitch-chat-logger/issues"
+  },
+  "homepage": "https://github.com/FoxPlays24/twitch-chat-logger#readme",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}
